@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ebi27](https://github.com/Ebi27)
+- 👨‍💻 All of my projects are available at [Ebi Kpemi-Ogokimi](https://ebi-kpemi-ogokimi.netlify.app/)
 
 - 📝 I regularly write articles on [https://ebixx.hashnode.dev/](https://ebixx.hashnode.dev/)
 
