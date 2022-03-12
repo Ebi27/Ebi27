@@ -1,6 +1,6 @@
 # Ebi-Kpemi-Ogokimi
 <h1 align="center">Hi 👋, I'm Ebi</h1>
-<h3 align="center">A software developer currently seeking learning opportunities. I am passionate about solving complex issues creatively. I aim to build softwares that will eventually improve lives by providing solutions.</h3>
+<h3 align="center">A software developer currently seeking learning opportunities. I am passionate about solving complex issues creatively, with simple solutions. I aim to build softwares that will eventually improve lives by providing effective solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebi27&label=Profile%20views&color=0e75b6&style=flat" alt="ebi27" /> </p>
 
@@ -18,7 +18,7 @@
 
 - 📝 I regularly write articles on [https://ebixx.hashnode.dev/](https://ebixx.hashnode.dev/)
 
-- 💬 Ask me about **anything.**
+<!-- - 💬 Ask me about **anything.** -->
 
 - 📫 How to reach me **kpemiogokimiebi@gmail.com**
 
