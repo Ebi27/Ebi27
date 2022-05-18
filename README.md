@@ -1,6 +1,6 @@
 # Ebi-Kpemi-Ogokimi
 <h1 align="center">Hi 👋, I'm Ebi</h1>
-<h3 align="center">A software developer currently seeking learning opportunities. I am passionate about solving complex issues creatively, with simple solutions. I aim to build softwares that will eventually improve lives by providing effective solutions.</h3>
+<h3 align="center">A software developer currently seeking entry level opportunities in an environment that  enables and encourages learning and creativity. I am passionate about solving complex issues creatively, with simple solutions. I aim to build softwares that will eventually improve lives by providing effective solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebi27&label=Profile%20views&color=0e75b6&style=flat" alt="ebi27" /> </p>
 
@@ -10,13 +10,13 @@
 
 - 🔭 I’m currently working on [JavaScript30](https://github.com/Ebi27/JavaScript30)
 
-- 🌱 I’m currently learning **web development and programming**
+- 🌱 I’m currently learning **Data Structure and Algorithm, Backend Development and Api's**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
 - 👨‍💻 All of my projects are available at [Ebi Kpemi-Ogokimi](https://ebi-kpemi-ogokimi.netlify.app/)
 
-- 📝 I regularly write articles on [https://ebixx.hashnode.dev/](https://ebixx.hashnode.dev/)
+- 📝 I sometimes write articles on [https://ebixx.hashnode.dev/](https://ebixx.hashnode.dev/)
 
 <!-- - 💬 Ask me about **anything.** -->
 
