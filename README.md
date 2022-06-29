@@ -16,7 +16,7 @@
 
 - 📝 I sometimes write articles on [https://ebixx.hashnode.dev/](https://ebixx.hashnode.dev/)
 
-- 👨‍💻 Read how i found out i was on the right track with software engineering and learning resources that has helped me through thus journey ? Click here  [Ebi Kpemi-Ogokimi](https://ebixx.hashnode.dev/how-i-figured-out-software-engineering-was-the-path-for-me-plus-my-learning-resources)
+- 👨‍💻 Read how i found out i was on the right track with software engineering and learning resources that has helped me through this journey [Ebi Kpemi-Ogokimi](https://ebixx.hashnode.dev/how-i-figured-out-software-engineering-was-the-path-for-me-plus-my-learning-resources)
 
 <!-- - 💬 Ask me about **Data structures and algorithms and my projects** -->
 
