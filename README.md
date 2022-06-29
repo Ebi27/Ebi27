@@ -8,17 +8,17 @@
 
 <p align="left"> <a href="https://twitter.com/lifewithebi" target="blank"><img src="https://img.shields.io/twitter/follow/lifewithebi?logo=twitter&style=for-the-badge" alt="lifewithebi" /></a> </p>
 
-- 🔭 I’m currently working on [JavaScript30](https://github.com/Ebi27/JavaScript30)
+- 🔭 I’m currently working on [Task Manager](https://github.com/Ebi27/task-manager)
 
-- 🌱 I’m currently learning **Data Structure and Algorithm, Backend Development and Api's**
+- 🌱 I’m currently learning **Data Structures and Algorithms/Java Full stack**
 
-- 👯 I’m looking to collaborate on **open source projects**
-
-- 👨‍💻 All of my projects are available at [Ebi Kpemi-Ogokimi](https://ebi-kpemi-ogokimi.netlify.app/)
+- 👯 I’m looking to collaborate on **open source projects and learning**
 
 - 📝 I sometimes write articles on [https://ebixx.hashnode.dev/](https://ebixx.hashnode.dev/)
 
-<!-- - 💬 Ask me about **anything.** -->
+- 👨‍💻 Read how i found out i was on the right track with software engineering and learning resources that has helped me through thus journey ? Click here  [Ebi Kpemi-Ogokimi](https://ebixx.hashnode.dev/how-i-figured-out-software-engineering-was-the-path-for-me-plus-my-learning-resources)
+
+<!-- - 💬 Ask me about **Data structures and algorithms and my projects** -->
 
 - 📫 How to reach me **kpemiogokimiebi@gmail.com**
 
