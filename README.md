@@ -1,6 +1,6 @@
 # Ebi-Kpemi-Ogokimi
 <h1 align="center">Hi 👋, I'm Ebi</h1>
-<h3 align="center">A software developer currently seeking entry level opportunities in an environment that  enables and encourages learning and creativity. I am passionate about solving complex issues creatively, with simple solutions. I aim to build softwares that will eventually improve lives by providing effective solutions.</h3>
+<h3 align="center">I am a solution-oriented software developer who is currently learning and acquiring skillsets to enable me build both independently and in a collaborative environment. I am seeking entry level opportunities in an environment that  enables and encourages learning and creativity. I aim to build softwares that will eventually improve lives by providing effective solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebi27&label=Profile%20views&color=0e75b6&style=flat" alt="ebi27" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Task Manager](https://github.com/Ebi27/task-manager)
 
-- 🌱 I’m currently learning **Data Structures and Algorithms/Java Full stack**
+- 🌱 I’m currently learning **To build data-intensive applications from start to finish. Learning Data structures and Algorithms**
 
 - 👯 I’m looking to collaborate on **open source projects and learning**
 
