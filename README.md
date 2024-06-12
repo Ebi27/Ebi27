@@ -11,13 +11,14 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lifewithebi" height="30" width="40" />
   </a>
 </p>
-<div style="text-align: center;">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGVnaHE5d3JweG90dWk5NnV2M3NrM285NHh1dHUwYXBzZno1dG51cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TUQ6hOPCUifdH1KWiz/giphy.gif" width="480" height="270" alt="GIF"/>
+
+ <div style="text-align: center;">
+    <img src="https://i.giphy.com/media/TUQ6hOPCUifdH1KWiz/giphy.gif" width="480" height="270" alt="GIF"/>
   </div>
   <p align="center">
-    <a href="https://giphy.com/gifs/Rpl1sod1vCXK0L2SUN">via GIPHY</a>
+    <a href="https://giphy.com/gifs/TUQ6hOPCUifdH1KWiz">via GIPHY</a>
   </p>
-      
+  
 ```yaml 
 name: Ebi Kpemi-Ogokimi
 located_in: Somewhere in the USA
@@ -67,3 +68,7 @@ Hobbies: [
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ebi27&show_icons=true&locale=en" alt="ebi27" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ebi27&" alt="ebi27" /></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
